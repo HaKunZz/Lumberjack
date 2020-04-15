@@ -1,0 +1,10 @@
+name: Lumberjack
+author: HaKunZz or F U R Q O N B U K H O R I
+version: 1.1.4.0
+main: HaKunZz\Lumberjack\Lumberjack
+api: 
+- 3.0.0
+
+commands:
+ lujk:
+  description: ""
